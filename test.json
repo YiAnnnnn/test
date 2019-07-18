@@ -1,0 +1,18 @@
+{
+    "test": {
+        "Team1": {
+            "Member": "Jay; Jenny; ruge", 
+            "week1": "1", 
+            "week2": "2", 
+            "total": "3", 
+            "Team": "Team1"
+        }, 
+        "Team2": {
+            "Member": "Leroy; Edwin; Angel", 
+            "week1": "1", 
+            "week2": "4", 
+            "total": "5", 
+            "Team": "Team2"
+        }
+    }
+}
